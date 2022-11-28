@@ -23,3 +23,4 @@ while True:
     
     pygame.display.update() #update line 4
     clock.tick(60) #จะไม่ทำงานเกิน 60 ครั้งต่อวินาที
+    #test git
