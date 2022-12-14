@@ -3,22 +3,47 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "MapSolo.tmx",
+    "activeFile": "",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "Floor.tsx": {
-            "scaleInDock": 1,
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Floor01.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33,
             "scaleInEditor": 1
         },
         "MapSolo.tmx": {
-            "scale": 0.125,
+            "scale": 0.25,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1316,
-                "y": 1084
+                "x": 1614,
+                "y": 1646
             }
+        },
+        "OutdoorsTileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "TX Tileset Grass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TX Tileset Stone Ground.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "demonstration.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
         },
         "tile imported มาละจ้า.tmx": {
             "scale": 1,
@@ -29,18 +54,30 @@
             }
         }
     },
-    "last.imagePath": "C:/Users/Yongyut Chanuphat/Downloads/05 - level graphics/5 - level graphics/graphics/tilemap",
+    "last.exportedFilePath": "C:/Users/Yongyut Chanuphat/Desktop/Solo Project/tiled",
+    "last.imagePath": "C:/Users/Yongyut Chanuphat/Desktop/Solo Project/graphics/tilemap",
     "map.height": 100,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
     "map.lastUsedFormat": "tmx",
     "map.width": 114,
     "openFiles": [
         "Floor.tsx",
-        "MapSolo.tmx"
+        "MapSolo.tmx",
+        "demonstration.tsx",
+        "OutdoorsTileset.tsx",
+        "TX Tileset Grass.tsx",
+        "TX Tileset Stone Ground.tsx",
+        "Floor01.tsx"
     ],
     "project": "untitled.tiled-project",
     "recentFiles": [
         "Floor.tsx",
         "MapSolo.tmx",
+        "Floor01.tsx",
+        "TX Tileset Stone Ground.tsx",
+        "TX Tileset Grass.tsx",
+        "OutdoorsTileset.tsx",
+        "demonstration.tsx",
         "tile imported มาละจ้า.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
